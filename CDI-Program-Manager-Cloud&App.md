@@ -18,10 +18,10 @@ Directement rattaché·e au Dirigeant, vos principales missions sont :
 Vous possédez au minimum 3 ans d’expérience en gestion de projet /de programme, idéalement dans un environnement en système ouvert, et vous disposez obligatoirement de compétences éprouvées en _architecture cloud_, _administration serveur_, et _base de données_. 
 
 Vous avez une expérience du dimensionnement / configuration / maintien en conditions opérationnelles d’infrastructure dans un contexte de forte montée en charge. 
+
 Bon·ne communicant·e, vous vous épanouissez dans le travail en équipe. Vous avez le souci d’inscrire votre action dans un projet d’entreprise globale, en dialoguant avec l’ensembles des services (commercial, consumer service, marketing, financier…) 
 
-Méthode et esprit de synthèse sont indispensables pour réussir à ce poste. Vous êtes orienté·e solution, et capable de concevoir des organisations ouvertes et agiles.
-Une bonne maitrise de l’anglais est également indispensable.
+Méthode et esprit de synthèse sont indispensables pour réussir à ce poste. Vous êtes orienté·e solution, et capable de concevoir des organisations ouvertes et agiles. Une bonne maitrise de l’anglais est également souhaité.
 
 Envie de prendre part à cette belle aventure ? 
 
